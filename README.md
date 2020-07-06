@@ -1,4 +1,4 @@
-# Simplified-ULMFIT-for-Airlines-Tweets-Sentiment-Classifier
+# Simplified ULMFIT for Twitter Airlines Sentiment Classification
 A Supervised ULMFiT model to Twitter US Airlines Sentiment.
 
 This is a repository created purely with my understandings on ULMFIT by executing it on [Twitter Airlines Sentiment](https://www.kaggle.com/crowdflower/twitter-airline-sentiment?rvi=1) hosted at kaggle.
